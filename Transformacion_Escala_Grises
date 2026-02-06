@@ -1,6 +1,7 @@
 %Transformación a escala de grises
 
-clear; clc;
+clear; 
+clc;
 Im = imread('C:\Users\Alan_\OneDrive\Imágenes\Álbum de cámara\ss_11942c933c595bf0188d5ee22f6f6a7ed3cdf7d9.1920x1080.jpg');
 figure; imshow(Im);
 Im = double(Im);
