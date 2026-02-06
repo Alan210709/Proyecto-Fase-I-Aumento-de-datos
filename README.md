@@ -18,4 +18,7 @@ Este repositorio presenta la implementación **manual** de técnicas de aumento 
 Francisco Javier Lopez Olvera
 / Alan Artemio Quero Alavez 
 / Wendy Krystal Rodriguez Aguilar 
-Maestría en Robótica / Universidad Tecnológica de la Mixteca
+
+
+Maestría en Robótica 
+Universidad Tecnológica de la Mixteca
