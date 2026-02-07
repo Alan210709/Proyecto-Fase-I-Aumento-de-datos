@@ -1,4 +1,4 @@
-# Data Augmentation en Imágenes en Escala de Grises
+# Aumento de Datos en Imágenes en Escala de Grises
 
 Este repositorio presenta la implementación **manual** de técnicas de aumento de datos aplicadas a imágenes en escala de grises, utilizando MATLAB y documentadas mediante una presentación.
 
